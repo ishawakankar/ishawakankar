@@ -4,6 +4,8 @@
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ishawakankar&" alt="ishawakankar" /></p>
 
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ishawakankar&show_icons=true&locale=en&layout=compact" alt="ishawakankar" /></p>
+
 <!--
 **ishawakankar/ishawakankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
